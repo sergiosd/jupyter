@@ -1,0 +1,30 @@
+FIELD;VALUE
+option_buy;20160928 +MBB-161021P109.00
+option_path_buy;E:\\Datos\\bolsa\\cuenta personal\\analisis de valores\\Trades activos\\Scanning\\20160928\\20160928
+option_type;put
+strike_buy;109
+expiration_yy;2016
+expiration_mm;10
+expiration_dd;21
+premium_buy;0,20
+underlying_buy;110,16
+entry_date_buy_yy;2016
+entry_date_buy_mm;9
+entry_date_buy_dd;28
+entry_date_buy_HH;15
+entry_date_buy_MM;47
+entry_date_buy_SS;58
+ticker;MBB
+historical_volatility_buy;0,013
+option_write;
+option_path_write;
+strike_write;
+premium_write;
+underlying_write;
+entry_date_write_yy;
+entry_date_write_mm;
+entry_date_write_dd;
+entry_date_write_HH;
+entry_date_write_MM;
+entry_date_write_SS;
+historical_volatility_write;
